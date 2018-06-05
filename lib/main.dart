@@ -22,7 +22,7 @@ class _MyAppState extends State<MyApp> {
   submitData(){
     data = [];
     listDynamic.forEach((widget)=>data.add(widget.controller.text));
-    
+    data.forEach((value)=>print(value));
 
   }
   @override

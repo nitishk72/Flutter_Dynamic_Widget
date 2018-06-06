@@ -1,8 +1,12 @@
-# flutter_dynamic
+# Flutter Dynamic Widget
 
 A new Flutter application.
 
-## Getting Started
+## APP Preview Version 1
+![Image](/demo.gif)
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+### Features ###
+
+* Add Dynamic TextField(Widget)
+* Access Dynamic TextField(Widget)
+

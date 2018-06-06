@@ -3,7 +3,7 @@
 A new Flutter application.
 
 ## APP Preview Version 1
-![Image](/demo.gif)
+![Image](demo.gif)
 
 ### Features ###
 
